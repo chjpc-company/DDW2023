@@ -1,0 +1,41 @@
+<!-- ETIQUETAS INICIALES -->
+
+<!--
+   ! -> SI.
+   DOC -> DOCUMENTO.
+   TYPE -> TIPO.
+   html -> html5.
+-->
+<!DOCTYPE html>
+
+<!--
+    html -> CODIGO O DOCUMENTO HTML5.
+-->
+<html></html>
+
+<!-- ETIQUETAS PARA METADATOS -->
+
+<!-- 
+    head -> INFORMACIÓN VISIBLE SOLO PARA LOS NAVEGADORES.
+ -->
+<head></head>
+
+<!--
+    title -> MUESTRA UN TITULO EN EL NAVEGADOR(WEB).
+-->
+<title></title>
+
+<!--
+    meta -> UTILIZADA PARA COLOCAR EL NOMBRE DEL AUTOR, DE LA DESCRIPCION O SCREEN.
+-->
+<meta>
+
+<!--
+    style -> SIRVE PARA INGRESAR CODIGO CSS EN EL HTML.
+-->
+<style></style>
+
+<!--
+    script -> SIRVE PARA INGRESAR CODIGO JAVASCRIPT EN EL HTML.
+-->
+<script></script>
