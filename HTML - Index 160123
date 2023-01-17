@@ -1,0 +1,12 @@
+<p>Hola Mundo!</p>
+<!-- Hola Mundo -->
+<title>Tienda Online Adelma - Inicio</title>
+<style>
+    body{
+        background: darkred;
+    }
+</style>
+<script>
+    document.write('Hola Mundo');
+    console.log('Hola Mundo2');
+</script>
