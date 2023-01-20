@@ -1,0 +1,122 @@
+<!-- ETIQUETAS INICIALES -->
+
+<!--
+   ! -> SI.
+   DOC -> DOCUMENTO.
+   TYPE -> TIPO.
+   html -> html5.
+-->
+<!DOCTYPE html>
+
+<!--
+    html -> CODIGO O DOCUMENTO HTML5.
+-->
+<html></html>
+
+<!-- ETIQUETAS PARA METADATOS -->
+
+<!-- 
+    head -> INFORMACIÓN VISIBLE SOLO PARA LOS NAVEGADORES.
+ -->
+<head></head>
+
+<!--
+    title -> MUESTRA UN TITULO EN EL NAVEGADOR(WEB).
+-->
+<title></title>
+
+<!--
+    meta -> UTILIZADA PARA COLOCAR EL NOMBRE DEL AUTOR, DE LA DESCRIPCION O SCREEN.
+-->
+<meta>
+
+<!--
+    style -> SIRVE PARA INGRESAR CODIGO CSS EN EL HTML.
+-->
+<style></style>
+
+<!--
+    script -> SIRVE PARA INGRESAR CODIGO JAVASCRIPT EN EL HTML.
+-->
+<script></script>
+
+<!-- ETIQUETAS PARA SECCIONES -->
+
+<!-- 
+    body -> CUERPO DE LA PAGINA WEB A MOSTRAR.
+ -->
+<body></body>
+
+<!--
+    nav -> PARA CREAR MENU DE NAVEGACION.
+-->
+<nav></nav>
+
+<!--
+    main -> ETIQUETA DE BLOQUES O GRUPOS.
+-->
+<main></main>
+
+<!--
+    section -> ETIQUETA DE SECCIONES.
+-->
+<section></section>
+
+<!--
+    header -> ETIQUETA QUE DEFINE LA PARTE SUPERIOR DE UNA WEB.
+-->
+<header></header>
+
+<!--
+    footer -> ETIQUETA QUE DEFINE LA PARTE INFERIOR DE UNA WEB.
+-->
+<footer></footer>
+
+<!--
+    div -> ETIQUETA PARA CREAR CAJAS/BLOQUES/SECCIONES.
+-->
+<div></div>
+
+<!--
+    article -> ETIQUETA PARA PUBLICIDAD EXTERNA.
+-->
+<article></article>
+
+<!--
+    aside -> ETIQUETA PARA PANEL LATERAL.
+-->
+<aside></aside>
+
+<!-- ETIQUETAS SEMANTICAS O ESTRUCTURALES -->
+
+<!--
+    p -> ETIQUETA DE PARRAFOS O TEXTO.
+-->
+<p></p>
+
+<!--
+    h# -> ETIQUETAS PARA TITULOS/SUBTITULOS.
+-->
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+<!--
+    a -> ETIQUETA PARA ENLACES.
+-->
+<a href=""></a>
+
+<!--
+    ul -> LISTA DESORDENADA.
+    ol -> LISTA ORDENADA.
+    li -> NUMERACION DE LA LISTA.
+-->
+<ul></ul> <ol></ol> <li></li>
+
+<!--
+    strong -> ETIQUETA PARA CITAS O PALABRAS IMPORTANTES DENTRO DE LA WEB.
+-->
+<strong></strong>
