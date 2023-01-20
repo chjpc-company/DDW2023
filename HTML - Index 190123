@@ -1,0 +1,56 @@
+<p>Hola Mundo01</p>
+<!-- Hola Mundo -->
+<title>Tienda Online Adelma - Inicio</title>
+<style>
+    body{
+        background: #FAFAFA;
+    }
+</style>
+<script>
+    document.write('Hola Mundo02');
+    console.log('Hola Mundo03');
+</script>
+<body>
+    <p>Hola Mundo04</p>
+</body>
+<body>
+    <main>
+        <section>
+            <p>Hola Mundo05</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+        </section>
+        <section>
+            <h1>YO ME</h1>
+            <h2>LLAMO</h2>
+            <h3>CHRISTIAN</h3>
+            <h4>PUYEN</h4>
+            <h5>CASTILLO</h5>
+            <h6>CHICLAYO</h6>
+        </section>
+        <nav>
+            <a href="#">INICIO</a>
+            <a href="#">NOSOTROS</a>
+            <a href="#">SERVICIOS</a>
+            <a href="#">CONTACTO</a>
+        </nav>
+        <nav>
+            <ul>
+                <li>04<a href="#">INICIO</a></li>
+                <li>02<a href="#">NOSOTROS</a></li>
+                <li>01<a href="#">SERVICIOS</a></li>
+                <li>03<a href="#">CONTACTO</a></li>
+            </ul>
+        </nav>
+        <nav>
+            <ol>
+                <li><a href="#">INICIO</a></li>
+                <li><a href="#">NOSOTROS</a></li>
+                <li><a href="#">SERVICIOS</a></li>
+                <li><a href="#">CONTACTO</a></li>
+            </ol>
+        </nav>
+        <strong>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, perferendis.</p>
+        </strong>
+    </main>
+</body>
