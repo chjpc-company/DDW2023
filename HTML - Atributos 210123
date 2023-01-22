@@ -1,0 +1,19 @@
+<!-- ATRIBUTOS PRINCIPALES DE LAS ETIQUETAS -->
+
+<!--
+    !DOCTYPE -> ETIQUETA.
+    html -> ATRIBUTO.
+-->
+<!DOCTYPE html>
+
+<!--
+    a -> ETIQUETA.
+    href -> ATRIBUTO DE DIRECCIONAMIENTO.
+-->
+<a href="">CONTACTO</a>
+
+<!--
+    script -> ETIQUETA.
+    src(search - buscar) -> ATRIBUTO DE BUSQUEDA.
+-->
+<script src=""></script>
