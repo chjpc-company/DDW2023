@@ -1,0 +1,81 @@
+<!--
+    EJEMPLOS DE LA CLASE 05 - 01 YA HECHOS.
+-->
+<!--
+    COMIENZO DE LOS EJEMPLOS, CLASE 06 EN ADELANTE.
+-->
+<!DOCTYPE html> <!-- ETIQUETA 01 -->
+<html lang="es"> <!-- ETIQUETA 02 -->
+<head> <!-- ETIQUETA 03 -->
+    
+    <!-- META DE CARACTERES -->
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- META DEL RESPONSIVE DESIGN -->
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+    <!-- META DE DESCRIPCION -->
+    <meta name="description" content="SEO -> MOTORES DE BUSQUEDA / ADELMA, TIENDA ONLINE, ROPA, ZAPATOS, NIKE, ADIDAS">
+    <!-- META DEL AUTOR -->
+    <meta name="author" content="NOMBRE DEL AUTOR">
+    <!-- META DEL ESLOGAN -->
+    <meta property="og:title" content="NOMBRE DE LA EMPRESA">
+    <meta property="og:description" content="SEO -> MOTORES DE BUSQUEDA">
+
+    <!-- TITULO DEL NAVEGADOR -->
+    <title>Tienda Online Adelma - Inicio</title>
+
+    <!-- ENLACE DEL FAVICON -->
+    <link rel="shortcut icon" href="#" type="image/png">
+    <!-- ENLACE DEL CSS -->
+    <link rel="stylesheet" href="document.css">
+    <!-- ENLACE DE LOS ICONOS -->
+    <link rel="stylesheet" href="icons/css/all.min.css">
+
+    <!-- JAVASCRIPT -->
+    <script type="text/javascript" src="mundo.js"></script>
+
+</head> <!-- FIN ETIQUETA 03 -->
+<body> <!-- ETIQUETA 04 -->
+    
+    <main> <!-- ETIQUETA 05 -->
+
+        <header> <!-- ETIQUETA 06 -->
+            <div></div> <!-- DIV COLOR ROJO -->
+            <div></div> <!-- DIV COLOR NEGRO -->
+            <div> <!-- DIV DE BLOQUE -->
+                <nav> <!-- MENU DE NAVEGACION -->
+                    <div>
+                        <a href="index.html">Christian!</a>
+                    </div>
+                    <div>
+                        <ul>
+                            <li><a href="index.html">Inicio</a></li>
+                            <li><a href="#">Portafolio</a></li>
+                            <li><a href="#">Nosotros</a></li>
+                            <li><a href="contacto.html">Conectar</a></li>
+                        </ul>
+                    </div>
+                </nav> <!-- FIN MENU DE NAVEGACION -->
+                <div> <!-- DIV DEL CONTENIDO -->
+                    <div>
+                        <div><img src="callCenterMujer.png" alt="Call Center"></div>
+                    </div>
+                    <div>
+
+                    </div>
+                </div> <!-- FIN DIV DEL CONTENIDO -->
+            </div> <!-- FIN DIV DE BLOQUE -->
+        </header> <!-- FIN ETIQUETA 06 -->
+
+        <section> <!-- ETIQUETA 07 -->
+
+        </section> <!-- FIN ETIQUETA 07 -->
+
+        <footer> <!-- ETIQUETA 08 -->
+
+        </footer> <!-- FIN ETIQUETA 08 -->
+
+    </main> <!-- FIN ETIQUETA 05 -->
+
+</body> <!-- FIN ETIQUETA 04 -->
+</html> <!-- FIN ETIQUETA 02 -->
