@@ -1,0 +1,247 @@
+<!-- ETIQUETAS INICIALES -->
+
+<!--
+   ! -> SI.
+   DOC -> DOCUMENTO.
+   TYPE -> TIPO.
+   html -> html5.
+-->
+<!DOCTYPE html>
+
+<!--
+    html -> CODIGO O DOCUMENTO HTML5.
+-->
+<html></html>
+
+<!-- ETIQUETAS PARA METADATOS -->
+
+<!-- 
+    head -> INFORMACIÓN VISIBLE SOLO PARA LOS NAVEGADORES.
+ -->
+<head></head>
+
+<!--
+    title -> MUESTRA UN TITULO EN EL NAVEGADOR(WEB).
+-->
+<title></title>
+
+<!--
+    meta -> UTILIZADA PARA COLOCAR EL NOMBRE DEL AUTOR, DE LA DESCRIPCION O SCREEN.
+-->
+<meta>
+
+<!--
+    style -> SIRVE PARA INGRESAR CODIGO CSS EN EL HTML.
+-->
+<style></style>
+
+<!--
+    link -> SIRVE PARA INGRESAR DOCUMENTACION EXTERNA.
+-->
+<link rel="stylesheet" href="">
+
+<!--
+    script -> SIRVE PARA INGRESAR CODIGO JAVASCRIPT EN EL HTML.
+-->
+<script></script>
+
+<!-- ETIQUETAS PARA SECCIONES -->
+
+<!-- 
+    body -> CUERPO DE LA PAGINA WEB A MOSTRAR.
+ -->
+<body></body>
+
+<!--
+    nav -> PARA CREAR MENU DE NAVEGACION.
+-->
+<nav></nav>
+
+<!--
+    main -> ETIQUETA DE BLOQUES O GRUPOS.
+-->
+<main></main>
+
+<!--
+    section -> ETIQUETA DE SECCIONES.
+-->
+<section></section>
+
+<!--
+    header -> ETIQUETA QUE DEFINE LA PARTE SUPERIOR DE UNA WEB.
+-->
+<header></header>
+
+<!--
+    footer -> ETIQUETA QUE DEFINE LA PARTE INFERIOR DE UNA WEB.
+-->
+<footer></footer>
+
+<!--
+    div -> ETIQUETA PARA CREAR CAJAS/BLOQUES/SECCIONES.
+-->
+<div></div>
+
+<!--
+    article -> ETIQUETA PARA PUBLICIDAD EXTERNA.
+-->
+<article></article>
+
+<!--
+    aside -> ETIQUETA PARA PANEL LATERAL.
+-->
+<aside></aside>
+
+<!-- ETIQUETAS SEMANTICAS O ESTRUCTURALES -->
+
+<!--
+    p -> ETIQUETA DE PARRAFOS O TEXTO.
+-->
+<p></p>
+
+<!--
+    h# -> ETIQUETAS PARA TITULOS/SUBTITULOS.
+-->
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+<!--
+    a -> ETIQUETA PARA ENLACES.
+-->
+<a href=""></a>
+
+<!--
+    ul -> LISTA DESORDENADA.
+    ol -> LISTA ORDENADA.
+    li -> NUMERACION DE LA LISTA.
+-->
+<ul></ul> <ol></ol> <li></li>
+
+<!--
+    strong -> ETIQUETA PARA CITAS O PALABRAS IMPORTANTES DENTRO DE LA WEB.
+-->
+<strong></strong>
+
+<!--
+    small -> CONTENIDO MAS PEQUEÑO DEL ORIGINAL.
+-->
+<small></small>
+
+<!--
+    b -> TEXTO EN NEGRITA.
+-->
+<b></b>
+
+<!--
+    i, span -> ETIQUETAS PARA ICONOS.
+-->
+<i></i> <span></span>
+
+<!--
+    br -> ETIQUETA PARA SALTOS DE LINEA.
+-->
+<br>
+
+<!-- ETIQUETAS PARA TABLAS -->
+
+<!--
+    table -> ETIQUETA PRINCIPAL DE UNA TABLA.
+-->
+<table></table>
+
+<!--
+    thead -> ETIQUETA DE LA CABECERA DE LA TABLA.
+-->
+<thead></thead>
+
+<!--
+    tbody -> ETIQUETA DEL CUERPO DE LA TABLA.
+-->
+<tbody></tbody>
+
+<!--
+    tfoot -> ETIQUETA DEL PIE DE PAGINA DE LA TABLA.
+-->
+<tfoot></tfoot>
+
+<!--
+    tr -> ETIQUETA DE TABLA PARA FILAS.
+-->
+<tr></tr>
+
+<!--
+    td -> ETIQUETA DE TABLA PARA CELDAS.
+-->
+<td></td>
+
+<!--
+    th -> ETIQUETA DE TABLA PARA ESPECIFICAR QUE PERTENECE AL ENCABEZADO.
+-->
+<th></th>
+
+<!-- ETIQUETAS PARA LOS FORMULARIOS -->
+
+<!--
+    form -> ETIQUETA PRINCIPAL DE UN FORMULARIO.
+-->
+<form action=""></form>
+
+<!--
+    input -> ETIQUETA DE FORMULARIO PARA CAMPOS DE ESCRITURA.
+-->
+<input type="text">
+
+<!--
+    label -> ETIQUETA DE FORMULARIO PARA INDICAR EL CAMPO A USAR.
+-->
+<label for=""></label>
+
+<!--
+    textarea -> ETIQUETA DE FORMULARIO PARA PARRAFOS GRANDES.
+-->
+<textarea name="" id="" cols="30" rows="10"></textarea>
+
+<!--
+    select -> ETIQUETA DE FORMULARIO PRINCIPAL PARA SELECCIONA OPCIONES.
+    option -> ETIQUETA DE FORMULARIO PARA INDICAR UNA OPCION.
+-->
+<select name="" id=""></select>
+<option value=""></option>
+
+<!--
+    button -> ETIQUETA DE FORMULARIO PARA CREAR BOTONES.
+    input[submit] -> ETIQUETA DE FORMULARIO PARA CREAR BOTONES.
+-->
+<button></button>
+<input type="submit">
+
+<!-- ETIQUETAS MULTIMEDIA -->
+
+<!--
+    img -> ETIQUETA PARA INSERTAR IMAGENES.
+        FORMATO:
+        - jpg.
+        - jpeg.
+        - png.
+        - gif.
+-->
+<img src="" alt="">
+
+<!--
+    video -> ETIQUETA PARA INSERTAR VIDEOS.
+        FORMATO:
+        - mp4.
+        - mov.
+        - mpeg.
+-->
+<video src=""></video>
+
+<!--
+    audio -> ETIQUETA PARA INSERTAR AUDIOS.
+        - mp3.
+-->
+<audio src=""></audio>
