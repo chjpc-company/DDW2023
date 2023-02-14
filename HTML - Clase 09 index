@@ -1,0 +1,139 @@
+<!--
+    EJEMPLOS DE LA CLASE 05 - 01 YA HECHOS.
+-->
+<!--
+    COMIENZO DE LOS EJEMPLOS, CLASE 06 EN ADELANTE.
+-->
+<!DOCTYPE html> <!-- ETIQUETA 01 -->
+<html lang="es"> <!-- ETIQUETA 02 -->
+<head> <!-- ETIQUETA 03 -->
+    
+    <!-- META DE CARACTERES -->
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- META DEL RESPONSIVE DESIGN -->
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+    <!-- META DE DESCRIPCION -->
+    <meta name="description" content="SEO -> MOTORES DE BUSQUEDA / ADELMA, TIENDA ONLINE, ROPA, ZAPATOS, NIKE, ADIDAS">
+    <!-- META DEL AUTOR -->
+    <meta name="author" content="NOMBRE DEL AUTOR">
+    <!-- META DEL ESLOGAN -->
+    <meta property="og:title" content="NOMBRE DE LA EMPRESA">
+    <meta property="og:description" content="SEO -> MOTORES DE BUSQUEDA">
+
+    <!-- TITULO DEL NAVEGADOR -->
+    <title>Tienda Online Christian - Inicio</title>
+
+    <!-- ENLACE DEL FAVICON -->
+    <link rel="shortcut icon" href="#" type="image/png">
+    <!-- ENLACE DEL CSS -->
+    <link rel="stylesheet" href="document.css">
+    <!-- ENLACE DE LOS ICONOS -->
+    <link rel="stylesheet" href="icons/css/all.min.css">
+
+    <!-- JAVASCRIPT -->
+    <script type="text/javascript" src="mundo.js"></script>
+
+</head> <!-- FIN ETIQUETA 03 -->
+<body> <!-- ETIQUETA 04 -->
+    
+    <main> <!-- ETIQUETA 05 -->
+
+        <header> <!-- ETIQUETA 06 -->
+            <div></div> <!-- DIV COLOR ROJO -->
+            <div></div> <!-- DIV COLOR NEGRO -->
+            <div> <!-- DIV DE BLOQUE -->
+                <nav> <!-- MENU DE NAVEGACION -->
+                    <div>
+                        <a href="index.html">Christian!</a>
+                    </div>
+                    <div>
+                        <ul>
+                            <li><a href="index.html">Inicio</a></li>
+                            <li><a href="#">Portafolio</a></li>
+                            <li><a href="#">Nosotros</a></li>
+                            <li><a href="contacto.html">Conectar</a></li>
+                        </ul>
+                    </div>
+                </nav> <!-- FIN MENU DE NAVEGACION -->
+                <div> <!-- DIV DEL CONTENIDO -->
+                    <div>
+                        <div><img src="callCenterMujer.png" alt="Call Center" title="Call Center"></div>
+                    </div>
+                    <div>
+                        <h1>Yo Soy Christian<br>Desarrollador de Sitios Web</h1>
+                        <h4>Yo tengo en la Industria de Marketing Digital un promedio de 5 años de trabajo con un aproximado de 20 clientes en cada Region</h4>
+                        <div>
+                            <a href="#" title="Preguntas Frecuentes"><i class="fa fa-up-right-from-square"></i></a>
+                            <a href="#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                            <a href="#" title="Youtube"><i class="fab fa-youtube"></i></a>
+                            <a href="#" title="Instagram"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div> <!-- FIN DIV DEL CONTENIDO -->
+            </div> <!-- FIN DIV DE BLOQUE -->
+        </header> <!-- FIN ETIQUETA 06 -->
+
+        <!-- PRIMERA SECCION -->
+        <section> <!-- ETIQUETA 07 -->
+            <div> <!-- CAJA PARA BORDES -->
+                <div> <!-- CAJA DESCRIPTIVA 01 -->
+                    <img src="media/cursoExcel.jpg" alt="Curso Excel" title="Curso Excel">
+                    <div>
+                        <i class="fa fa-calendar-alt"></i>
+                        <p>Marzo 12, 2023</p>
+                        <i class="fa fa-stopwatch"></i>
+                        <p>20:00</p>
+                    </div>
+                    <a href="#">
+                        <h1>Curso de Excel B&aacute;sico, Intermedio y Avanzado, Macros, Modalidad Virtual</h1>
+                    </a>
+                    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia error quibusdam harum sed consequatur at, maxime dolore doloremque esse minima!</h4>
+                </div> <!-- FIN CAJA DESCRIPTIVA 01 -->
+
+                <div> <!-- CAJA DESCRIPTIVA 02 -->
+                    <img src="media/cursoWord.png" alt="Curso Word" title="Curso Word">
+                    <div>
+                        <i class="fa fa-calendar-alt"></i>
+                        <p>Abril 12, 2023</p>
+                        <i class="fa fa-stopwatch"></i>
+                        <p>21:00</p>
+                    </div>
+                    <a href="#">
+                        <h1>Curso de Word B&aacute;sico, Intermedio y Avanzado, Modalidad Virtual</h1>
+                    </a>
+                    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni neque consequatur itaque voluptate voluptatibus! Odio maxime tenetur quisquam repellat dolore.</h4>
+                </div> <!-- FIN CAJA DESCRIPTIVA 02 -->
+
+                <div> <!-- CAJA DESCRIPTIVA 03 -->
+                    <img src="media/cursoPPT.png" alt="Curso PowerPoint" title="Curso PowerPoint">
+                    <div>
+                        <i class="fa fa-calendar-alt"></i>
+                        <p>Mayo 23, 2023</p>
+                        <i class="fa fa-stopwatch"></i>
+                        <p>20:30</p>
+                    </div>
+                    <a href="#">
+                        <h1>Curso de PowerPoint B&aacute;sico, Intermedio y Avanzado, Modalidad Virtual</h1>
+                    </a>
+                    <h4>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas quisquam minus architecto veritatis inventore facilis facere rem, reprehenderit saepe laudantium.</h4>
+                </div> <!-- FIN CAJA DESCRIPTIVA 03 -->
+            </div>
+        </section> <!-- FIN ETIQUETA 07 -->
+
+        <footer> <!-- ETIQUETA 08 -->
+            <div> <!-- CAJA PARA BORDES -->
+                <div> <!-- CAJA ARRIBA -->
+
+                </div> <!-- FIN CAJA ARRIBA -->
+
+                <div> <!-- CAJA ABAJO -->
+
+                </div> <!-- FIN CAJA ABAJO -->
+            </div> <!-- FIN CAJA PARA BORDES -->
+        </footer> <!-- FIN ETIQUETA 08 -->
+
+    </main> <!-- FIN ETIQUETA 05 -->
+
+</body> <!-- FIN ETIQUETA 04 -->
+</html> <!-- FIN ETIQUETA 02 -->
