@@ -1,0 +1,17 @@
+/* EJEMPLOS DE SELECTORES */
+
+*{
+    background: url(../img/backgroundFondo.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+div{background: rgb(0,157,255);}
+
+.circulo{background: #c300ff;}
+
+#cuadrado{background: darkslateblue;}
+
+[type="email"]{background: yellow;}
+[type="text"]{background: green;}
