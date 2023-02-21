@@ -1,0 +1,66 @@
+/*
+    ¿QUÉ ES CSS?
+    INGLES -> CASCADING STYLE SHEETS.
+    ESPAÑOL -> HOJAS DE ESTILO EN CASCADA.
+
+    REGLA CSS
+                    declaración
+    selector{propiedad: valorPropiedad;}
+*/
+
+/*
+    SELECTORES CSS
+
+    1.- SELECTOR DE TIPO -> LLAMADO A UNA ETIQUETA.
+        body
+        div
+        input
+
+    2.- SELECTOR DE CLASE -> LLAMADO DE UNA CLASE INSERTADA EN UNA ETIQUETA.
+        .circulo
+            . -> HACE REFERENCIA QUE ES UNA CLASE.
+            circulo -> NOMBRE DE LA CLASE EN LA ETIQUETA.
+
+    3.- SELECTOR DE ID -> LLAMADO A UN IDENTIFICADOR.
+        #cuadrado
+            # -> HACE REFERENCIA QUE ES UN ID.
+            cuadrado -> NOMBRE DEL ID EN LA ETIQUETA.
+
+    4.- SELECTOR DE ATRIBUTO -> LLAMADO DEL ATRIBUTO Y SU VALOR INSERTADOS EN UNA ETIQUETA.
+        [type="email"]
+        [name="Email"]
+            [] -> HACE REFERENCIA QUE ES UN ATRIBUTO.
+            type -> EL ATRIBUTO DE LA ETIQUETA.
+            "email" -> EL VALOR DEL ATRIBUTO A LLAMAR.
+
+    5.- SELECTOR GLOBAL -> MODIFICA TODAS LAS ETIQUETAS INSERTADAS EN EL DOCUMENTO HTML.
+        * -> HACE REFERENCIA QUE MODIFICARA TODAS LAS ETIQUETAS.
+
+*/
+
+/*
+    PROPIEDADES CSS
+
+    1.- background -> MODIFICA EL COLOR DE FONDO.
+        - background: red; -> COLOR CON NOMBRE EN INGLES.
+        - background: rgb(0,0,0); -> COLOR CON RGB.
+        - background: #3987ad; -> COLOR CON CODIGO HEXADECIMAL.
+        - background: url(imagen.jpg); -> FONDO CON IMAGEN.
+
+    2.- background-position -> POSICION DE LA IMAGEN DE FONDO.
+        - background-position: top; -> POSICIONA LA IMAGEN EN LA PARTE DE ARRIBA.
+        - background-position: left; -> POSICIONA LA IMAGEN EN LA PARTE IZQUIERDA.
+        - background-position: right; -> POSICIONA LA IMAGEN EN LA PARTE DERECHA.
+        - background-position: bottom; -> POSICIONA LA IMAGEN EN LA PARTE DE ABAJO.
+        - background-position: center; -> POSICIONA LA IMAGEN EN LA PARTE DEL CENTRO.
+
+    3.- background-repeat -> DECIDE SI LA IMAGEN DE FONDO SE REPITE O NO.
+        - background-repeat: no-repeat; -> LA IMAGEN NO SE REPETIRA.
+        - background-repeat: repeat; -> LA IMAGEN SE REPETIRA.
+
+    4.- background-size -> DEFINE LAS DIMENSIONES DE LA IMAGEN DE FONDO.
+        - background-size: contain; -> DIMENSIONA LA IMAGEN A LA CANTIDAD DE ETIQUETAS.
+        - background-size: cover; -> DIMENSIONA LA IMAGEN AL 100% DE ANCHO Y ALTO.
+        - background-size: 100%; -> DIMENSIONA LA IMAGEN AL 100% DE ANCHO Y ALTO.
+
+*/
