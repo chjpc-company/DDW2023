@@ -1,0 +1,94 @@
+/* EJEMPLOS DE SELECTORES */
+*{
+    background: darkred;
+}
+
+div{background: rgb(0,157,255);}
+
+.circulo{background: #c300ff;}
+
+#cuadrado{background: darkslateblue;}
+
+[type="email"]{background: yellow;}
+[type="text"]{background: green;}
+
+/* EJEMPLO DE DIMENSIONES */
+
+.dimension01{
+    width: 100%;
+    height: 650px;
+
+    background: url(../img/backgroundFondo.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.dimension02{
+    width: 100%;
+    height: auto;
+    background: black;
+}
+.margin01{
+    width: 25%;
+    height: 150px;
+    background: #a4a4a4;
+
+    margin-left: 50px;
+    padding: 50px;
+}
+.margin02{
+    width: 25%;
+    height: 150px;
+    background: #a4a4a4;
+
+    margin-left: 120px;
+    padding-bottom: 10px;
+}
+.padding01{
+    width: 100%;
+    height: 100%;
+    background: darkorange;
+    border-left: 5px dotted #000;    
+}
+.padding02{
+    width: 100%;
+    height: 100%;
+    background: darkgreen;
+    border-right: 5px dashed #000;
+    border-top: 5px dashed #000;
+}
+.borderRadius{
+    width: 250px;
+    height: 250px;
+    background: darkslategray;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+
+    border-radius: 40px;
+
+    border-top-left-radius: 40px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 40px;
+
+    border-radius: 40% 50%;
+}
+.positionPadre{
+    width: 100%;
+    height: 300px;
+    background: white;
+    position: relative;
+}
+.positionHijo{
+    width: 50px;
+    height: 50px;
+    background: lightcoral;
+    border-radius: 50%;
+
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+}
