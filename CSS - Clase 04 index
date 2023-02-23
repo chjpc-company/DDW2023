@@ -1,0 +1,107 @@
+<!--
+    EJEMPLOS CSS
+-->
+<!DOCTYPE html>
+<html lang="es"> <!-- INICIO HTML -->
+<head> <!-- INICIO HEAD -->
+    
+    <!-- META DE CARACTERES -->
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- META DEL RESPONSIVE DESIGN -->
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+    <!-- META DE DESCRIPCION -->
+    <meta name="description" content="SEO -> MOTORES DE BUSQUEDA / ADELMA, TIENDA ONLINE, ROPA, ZAPATOS, NIKE, ADIDAS">
+    <!-- META DEL AUTOR -->
+    <meta name="author" content="NOMBRE DEL AUTOR">
+    <!-- META DEL ESLOGAN -->
+    <meta property="og:title" content="NOMBRE DE LA EMPRESA">
+    <meta property="og:description" content="SEO -> MOTORES DE BUSQUEDA">
+
+    <!-- TITULO DEL NAVEGADOR -->
+    <title>Ejemplos - CSS3</title>
+
+    <!-- ENLACE DEL FAVICON -->
+    <link rel="shortcut icon" href="#" type="image/png">
+    <!-- ENLACE DEL CSS -->
+    <link rel="stylesheet" href="css/ejemplos.css">
+    <!-- ENLACE DE LOS ICONOS -->
+    <link rel="stylesheet" href="">
+
+</head> <!-- FIN HEAD -->
+
+<body> <!-- INICIO BODY -->
+
+    <!-- EJEMPLO DE SELECTOR DE TIPO -->
+    <div>EJEMPLO DE SELECTOR DE TIPO.</div>
+    <!-- EJEMPLO DE SELECTOR DE CLASE -->
+    <div class="circulo">EJEMPLO DE SELECTOR DE CLASE</div>
+    <!-- EJEMPLO DE SELECTOR DE ID -->
+    <div id="cuadrado">EJEMPLO DE SELECTOR DE ID</div>
+    <!-- EJEMPLO DE SELECTOR DE ATRIBUTO -->
+    <input type="email" name="Email" placeholder="EJEMPLO DE SELECTOR DE ATRIBUTO">
+    <input type="text" placeholder="EJEMPLO DE SELECTOR DE ATRIBUTO">
+
+    <!-- EJEMPLO DE DIMENSIONES 01 -->
+    <section class="dimension01"></section>
+    <section class="dimension02">
+        <div class="margin01">
+            <div class="padding01"></div>
+        </div>
+        <div class="margin02">
+            <div class="padding02"></div>
+        </div>
+    </section>
+    <section class="borderRadius"></section>    
+    <section class="positionPadre">
+        <div class="positionHijo"></div>
+    </section>
+    <!-- EJEMPLO DE DIMENSIONES 02 -->
+    <section class="positionEjemploPadre01">
+        <div class="positionEjemploHijo01"></div>
+        <div class="positionEjemploHijo02"></div>
+    </section>
+    <section class="positionEjemploPadre02">
+        <div class="positionEjemploHijo03">caja 01</div>
+        <div class="positionEjemploHijo04">caja 02</div>
+        <div class="positionEjemploHijo05">caja 03</div>
+        <div class="positionEjemploHijo06">caja 04</div>
+    </section>
+    <!-- FLEXBOX / FLEX-DIRECTION -->
+    <section class="positionEjemploPadre03">
+        <div class="positionEjemploHijo07">caja 01</div>
+        <div class="positionEjemploHijo08">caja 02</div>
+        <div class="positionEjemploHijo09">caja 03</div>
+        <div class="positionEjemploHijo10">caja 04</div>
+    </section>
+    <!-- FLEXBOX / FLEX-WRAP -->
+    <section class="positionEjemploPadre04">
+        <div class="positionEjemploHijo11">caja 01</div>
+        <div class="positionEjemploHijo12">caja 02</div>
+        <div class="positionEjemploHijo13">caja 03</div>
+        <div class="positionEjemploHijo14">caja 04</div>
+        <div class="positionEjemploHijo15">caja 05</div>
+        <div class="positionEjemploHijo16">caja 06</div>
+    </section>
+    <!-- FLEXBOX / FLEX-FLOW -->
+    <section class="positionEjemploPadre05">
+        <div class="positionEjemploHijo17">caja 01</div>
+        <div class="positionEjemploHijo18">caja 02</div>
+        <div class="positionEjemploHijo19">caja 03</div>
+    </section>
+    <!-- FLEXBOX / JUSTIFY-CONTENT -->
+    <section class="positionEjemploPadre06">
+        <div class="positionEjemploHijo20">caja 01</div>
+        <div class="positionEjemploHijo21">caja 02</div>
+        <div class="positionEjemploHijo22">caja 03</div>
+    </section>
+    <!-- FLEXBOX / ALIGN-ITEMS -->
+    <section class="positionEjemploPadre07">
+        <div class="positionEjemploHijo23">caja 01</div>
+        <div class="positionEjemploHijo24">caja 02</div>
+        <div class="positionEjemploHijo25">caja 03</div>
+    </section>
+    
+</body> <!-- FIN BODY -->
+
+</html> <!-- FIN HTML -->
